@@ -1,2 +1,2 @@
-# framework
-Default framework for a Roblox (lua) game
+# Luau Framework
+Default framework for a Roblox (luau) game
